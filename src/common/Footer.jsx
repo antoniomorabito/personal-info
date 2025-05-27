@@ -13,7 +13,7 @@ const Footer = () => {
                         <div className="col-lg-6">
                                 <div className="footer-top-cap text-center">
                                     <img src="assets/img/logo/logo2_footer.png" alt="" />
-                                    <span><a href="#">antoniomorabitositorus@globalcodeindonesia.com</a></span>
+                                    <span><a href="#">antoniomorabitositorus</a></span>
                                     <p>221B Baker Street, Post office Box 353 </p>
                                     <p>Park Road, USA - 215431</p>
                                 </div>
